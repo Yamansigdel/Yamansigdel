@@ -13,7 +13,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Echoes and Expressions: Nepali Emotion Recognition with Machine Learning**
+- 🔭 I worked on **Echoes and Expressions: Nepali Emotion Recognition with Machine Learning**
 
 - 🌱 I’m currently learning **CNNs architectures**
 
